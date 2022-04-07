@@ -10,7 +10,7 @@ Python 3.9 or Later.
 
 - Requests   (https://pypi.org/project/requests)
 - Colored    (https://pypi.org/project/colored)
-- Matplotlib (https://pypi.org/project/matplotlib/)
+- Matplotlib (https://pypi.org/project/matplotlib)
 
 # Disclaimer
 
